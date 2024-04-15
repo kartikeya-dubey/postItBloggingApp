@@ -98,7 +98,7 @@ public class SwagggerConfig {
 						)
 				.info(new Info()
 						.title("Blogging Application : Post It")
-						.description("This project is developed with Java, React and love")
+						.description("This project is developed by Kartikeya Dubey using Java, SpringBoot, MySQL and extended to AWS Cloud. Look me up using the URL below!")
 						.version("1.0")
 						.contact(contact)
 					);
