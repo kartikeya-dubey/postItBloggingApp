@@ -62,3 +62,4 @@ Resource links:
 * Spring- https://docs.spring.io/
 * Spring Security- https://docs.spring.io/spring-security/reference/
 * Amazon Cloud Services- https://docs.aws.amazon.com/
+* React- https://legacy.reactjs.org/docs/create-a-new-react-app.html
